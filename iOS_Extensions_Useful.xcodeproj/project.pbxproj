@@ -13,6 +13,7 @@
 		7F2FB1A328227276004F90E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F2FB1A128227276004F90E6 /* Main.storyboard */; };
 		7F2FB1A528227285004F90E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F2FB1A428227285004F90E6 /* Assets.xcassets */; };
 		7F2FB1A828227285004F90E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F2FB1A628227285004F90E6 /* LaunchScreen.storyboard */; };
+		7F2FB1B0282272CD004F90E6 /* iOS_Useful+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2FB1AF282272CD004F90E6 /* iOS_Useful+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7F2FB1A428227285004F90E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F2FB1A728227285004F90E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F2FB1A928227285004F90E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F2FB1AF282272CD004F90E6 /* iOS_Useful+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "iOS_Useful+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7F2FB19B28227276004F90E6 /* AppDelegate.swift */,
 				7F2FB19D28227276004F90E6 /* SceneDelegate.swift */,
 				7F2FB19F28227276004F90E6 /* ViewController.swift */,
+				7F2FB1AF282272CD004F90E6 /* iOS_Useful+Extensions.swift */,
 				7F2FB1A128227276004F90E6 /* Main.storyboard */,
 				7F2FB1A428227285004F90E6 /* Assets.xcassets */,
 				7F2FB1A628227285004F90E6 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				7F2FB1A028227276004F90E6 /* ViewController.swift in Sources */,
 				7F2FB19C28227276004F90E6 /* AppDelegate.swift in Sources */,
 				7F2FB19E28227276004F90E6 /* SceneDelegate.swift in Sources */,
+				7F2FB1B0282272CD004F90E6 /* iOS_Useful+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
